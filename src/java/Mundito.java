@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Altaír Sanchez
+ * @author Katia Juárez
  */
 
     //redirige el navegador a la dirección del servlet
